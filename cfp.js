@@ -47,4 +47,5 @@ const teams = [
     calculateTeamScore,
     compareTeams,
     selectTeams,
+    teams
   };

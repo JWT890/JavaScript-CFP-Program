@@ -54,4 +54,3 @@ class Team {
   
   // Run the program
   main();
-  
